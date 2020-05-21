@@ -22,12 +22,12 @@ a {
 .container {
   width: 100%;
   text-align: center;
-  padding-top: 250px;
+  padding-top: 300px;
   height: 800px;
 }
 
 .container h1 {
-  font-size: 70px;
+  font-size: 60px;
   text-shadow: 2px 2px 3px gray;
   letter-spacing: 2px;
 }
@@ -51,7 +51,7 @@ a {
 
 .first .text {
   position: absolute;
-  top: 65%;
+  top: 60%;
   left: 0;
   padding: 0 10px;
 }
@@ -73,7 +73,7 @@ a {
 
 .third .text {
   position: absolute;
-  top: 65%;
+  top: 60%;
   left: 0;
   padding: 0 10px;
 }
@@ -97,6 +97,7 @@ a {
 
 .half-left img {
   width: 100%;
+  opacity: 0.8;
 }
 
 .half-left {
@@ -106,7 +107,7 @@ a {
 
 .half-left .text {
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 15%;
 }
 
@@ -115,7 +116,7 @@ a {
 }
 
 .half-right .text {
-  padding: 200px 0;
+  padding: 50px 0;
 }
 
 .bottom {
@@ -153,25 +154,6 @@ a {
 
 .footer a {
   color: white;
-}
-
-.end-list {
-  text-align: center;
-  padding-left: 480px;
-}
-
-ul {
-  list-style: none;
-}
-
-.float {
-  display: flex;
-  text-align: center;
-}
-
-li {
-  padding: 10px 20px;
-  font-size: 18px;
 }
 
 .co {
