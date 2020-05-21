@@ -178,7 +178,7 @@ li {
   text-align: center;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
   .half-left .text {
     padding: 0 60px 0 0;
   }
@@ -196,7 +196,7 @@ li {
   }
 }
 
-  @media (max-width: 1024px) {
+  @media (max-width: 768px) {
     .third .text {
       top: 55%;
       left: 0;
